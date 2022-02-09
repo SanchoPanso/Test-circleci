@@ -1,0 +1,3 @@
+D:/CLionProjects/RottingOranges/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/CLionProjects/RottingOranges/cmake-build-debug/CMakeFiles/RottingOranges.dir
+D:/CLionProjects/RottingOranges/cmake-build-debug/CMakeFiles/edit_cache.dir
